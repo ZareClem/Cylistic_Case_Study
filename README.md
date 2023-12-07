@@ -1,5 +1,5 @@
 # Cyclistic
-
+# Introduction
 ---
 The sample bike share service offers two tiers of subscriptions: individual passes, which characterize "casual" riders, and annual memberships, which constitute "member" riders. This project was intended to provide information on the differences in usage characteristics observed between "casual" and "member" riders.
 
