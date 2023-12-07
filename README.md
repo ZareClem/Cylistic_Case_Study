@@ -1,8 +1,11 @@
 # Cyclistic
 
 ---
+The sample bike share service offers two tiers of subscriptions: individual passes, which characterize "casual" riders, and annual memberships, which constitute "member" riders. This project was intended to provide information on the differences in usage characteristics observed between "casual" and "member" riders.
 
-In this case study, I assume the role of an analyst for a fictional company called Cyclistic based in Chicago. They provide a bike sharing service similar to Lime. My manager, the director of marketing, believes that the company’s future success depends on maximizing the number of annual memberships. 
+This project was developed to satisfy the Case Study 1 scenario outlined in the Google Data Analytics Certification course capstone.
+
+In this case study, I assume the role of an analyst for a fictional company called Cyclistic based in Chicago. They provide a bike-sharing service similar to Lime. My manager, the director of marketing, believes that the company’s future success depends on maximizing the number of annual memberships. 
 ## Links
 
 - [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/professional-cert/PY27NVYAN7EH)
@@ -12,7 +15,7 @@ In this case study, I assume the role of an analyst for a fictional company call
 - __Source Files:__ 12 files logging trip data per month
 - __Processed:__ 1.3 GB of data via Google BigQuery
 - __Analyzed:__ 3,804,245 rows via RStudio
-- 
+  
 ### How are Subscribers different from Casual Users?
 
 My task is to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we will design a new marketing strategy to convert casual riders into annual members.
