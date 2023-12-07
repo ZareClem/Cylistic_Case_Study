@@ -5,9 +5,14 @@
 In this case study, I assume the role of an analyst for a fictional company called Cyclistic based in Chicago. They provide a bike sharing service similar to Lime. My manager, the director of marketing, believes that the company’s future success depends on maximizing the number of annual memberships. 
 ## Links
 
-
 - [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/professional-cert/PY27NVYAN7EH)
 
+## Data
+- __Date Range:__ April 2020 - April 2021
+- __Source Files:__ 12 files logging trip data per month
+- __Processed:__ 1.3 GB of data via Google BigQuery
+- __Analyzed:__ 3,804,245 rows via RStudio
+- 
 ### How are Subscribers different from Casual Users?
 
 My task is to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we will design a new marketing strategy to convert casual riders into annual members.
