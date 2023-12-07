@@ -5,7 +5,7 @@
 In this case study, I assume the role of an analyst for a fictional company called Cyclistic based in Chicago. They provide a bike sharing service similar to Lime. My manager, the director of marketing, believes that the company’s future success depends on maximizing the number of annual memberships. 
 ## Links
 
-- [Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 - [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/professional-cert/PY27NVYAN7EH)
 
 ### How are Subscribers different from Casual Users?
