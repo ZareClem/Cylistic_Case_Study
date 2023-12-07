@@ -15,20 +15,22 @@ I'm given access to a set of CSV files. They are organized by month, and have ha
 ### When do Casual Users ride?
 
 ---
-
-![Figure 1](figs/fig1.png)
+![image](https://github.com/ZareClem/Cylistic_Case_Study/assets/138980152/af4bfd1f-1435-436a-a0b0-600f41a8f5bd)
 
 For reference, people take more rides overall in the Summer and fewer in the Winter. There are generally fewer Casual Users than Subscribers.
 
-![Figure 2](figs/fig2.png)
+![image](https://github.com/ZareClem/Cylistic_Case_Study/assets/138980152/f630c39c-8f06-44aa-be44-b51339b76d8e)
+
 
 Nearly 50% of all riders are Casual Users during the Summer months, but this drops to less than 20% in the Winter.
 
-![Figure 3](figs/fig3.png)
+![image](https://github.com/ZareClem/Cylistic_Case_Study/assets/138980152/846a6d41-9297-409a-8ab2-c89c35c23007)
+
 
 From day to day, Subscriber use peaks at 8 AM and 5 PM during the week. Casual users also peak around 5 PM.
 
-![Figure 4](figs/fig4.png)
+![image](https://github.com/ZareClem/Cylistic_Case_Study/assets/138980152/f6a1ba61-9845-46e1-bc4f-4efcd6cb6bfc)
+
 
 Casual Users typically make up less than 40% of rides during the week, but this shoots up to around 52% over the weekend. 
 
@@ -36,9 +38,11 @@ Casual Users typically make up less than 40% of rides during the week, but this 
 
 ---
 
-![Figure 5](figs/fig5.png)
+![image](https://github.com/ZareClem/Cylistic_Case_Study/assets/138980152/db23c325-eeb4-4c4a-88fa-4f45b899cb41)
 
-![A comparison of longest and shortest rides, by day of week.](figs/fig6.png)
+
+![image](https://github.com/ZareClem/Cylistic_Case_Study/assets/138980152/4d1167c8-d832-48c7-851f-6cdd05cc7133)
+
 
 A large difference between the two groups is ride length. Casual Users tend to take longer rides, and the longest ride is a lot longer than the shortest. Compared to Subscribers, who usually stay within a tight range of relatively short rides. 
 
@@ -46,7 +50,7 @@ A large difference between the two groups is ride length. Casual Users tend to t
 
 ---
 
-![Figure 7](figs/fig7.png)
+![image](https://github.com/ZareClem/Cylistic_Case_Study/assets/138980152/8681306d-e87b-4a9b-8cd6-74e768a7d3af)
 
 # Cyclistic is for Getting to Work.
 
